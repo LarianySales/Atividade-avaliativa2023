@@ -1,0 +1,28 @@
+body{
+    background-color: #000789;
+}
+.titulo{
+    margin-top: 50px;
+}
+
+/* titulo */
+.p1{
+    background-color: aliceblue;
+    box-shadow: 1px 1px 5px #fff;
+  
+}
+/* primeira imagem */
+.imagem{
+justify-content: center;
+
+}
+.imagem img{
+    display: flow-root;
+    margin-left: 600px;
+    border-radius: 50px;
+
+}
+.res{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
